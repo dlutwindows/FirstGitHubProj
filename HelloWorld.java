@@ -6,7 +6,7 @@ public class HelloWorld{
 		int sum=0;
 		while(num<=100){
 			sum+=num;
-			num+=2;
+			num+=3;
 		}
 		System.out.println(sum);
 	}
